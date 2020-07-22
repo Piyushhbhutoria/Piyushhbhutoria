@@ -8,4 +8,4 @@
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://piyushhbhutoria.github.io/portfolio//) 
 ![Visits Badge](https://badges.pufler.dev/visits/Piyushhbhutoria/Piyushhbhutoria?style=for-the-badge)
 
-[![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&theme=radical&hide_border=true)](https://github.com/Piyushhbhutoria)
+[![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&theme=radical)](https://github.com/Piyushhbhutoria)
