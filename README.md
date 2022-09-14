@@ -7,7 +7,8 @@
 <!-- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dr.piyushh/) -->
 
 [![Piyushh Bhutoria StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8202594)](https://stackoverflow.com/users/8202594/iwasidiotic)
-[![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Piyushhbhutoria)
+![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&count_private=true&include_all_commits=true)
+![Piyushh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhbhutoria&hide=css,scss,html,Jupyter%20Notebook&layout=compact)
 
 ## A meme for you
 
