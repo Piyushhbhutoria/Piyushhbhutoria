@@ -22,13 +22,17 @@ I was a sportsperson all my school days and the 'guy in the chair' during my col
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 
-### 📈 GitHub Stats
+### A meme for you
 
-![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&count_private=true&include_all_commits=true)
+<img src='https://random-memer-production-e02a.up.railway.app/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="300">
 
 ### 🏆 Stack Overflow
 
 [![Piyushh Bhutoria StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8202594)](https://stackoverflow.com/users/8202594/iwasidiotic)
+
+### 📈 GitHub Stats
+
+![Piyushh's github stats](https://github-readme-stats.vercel.app/api?username=Piyushhbhutoria&show_icons=true&count_private=true&include_all_commits=true)
 
 ### ⭐ Repository Star History
 
